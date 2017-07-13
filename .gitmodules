@@ -4,3 +4,6 @@
 [submodule "GenCon-Motion"]
 	path = GenCon-Motion
 	url = https://github.com/Team-Apple/GenCon-Motion
+[submodule "GenCon-iOS"]
+	path = GenCon-iOS
+	url = https://github.com/Team-Apple/GenCon-iOS.git
