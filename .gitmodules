@@ -7,3 +7,6 @@
 [submodule "GenCon-iOS"]
 	path = GenCon-iOS
 	url = https://github.com/Team-Apple/GenCon-iOS.git
+[submodule "GenCon-Android"]
+	path = GenCon-Android
+	url = https://github.com/Team-Apple/GenCon-Android.git
