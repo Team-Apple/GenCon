@@ -9,4 +9,4 @@
 	url = https://github.com/Team-Apple/GenCon-iOS.git
 [submodule "GenCon-Android"]
 	path = GenCon-Android
-	url = https://github.com/Team-Apple/GenCon-Android.git
+	url = https://github.com/Team-Apple/GenCon-Android
